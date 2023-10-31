@@ -1,0 +1,4 @@
+*.DS_Store
+data/dataset.csv
+src/creds.env
+*.env
